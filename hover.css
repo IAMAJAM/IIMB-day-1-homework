@@ -1,0 +1,18 @@
+a:hover{background-color:green; width:50%; font-size:50px;}
+h1:hover{background-color:green; width:50%; font-size:50px;}
+.a:hover{background-color:green; width:30%; font-size:50px; align:center; font-family:Comic Sans MS; background-color:red;}
+.b:hover{background-color:green; width:30%; font-size:50px; align:right; margin-right:100; font-family:Agency FB; background-color:blue;}
+.c:hover{background-color:green; width:30%; font-size:50px; align:left; margin-left:10; font-family:Symbol; background-color:yellow;}
+th{
+font-weight: bold;
+vertical-align: -internal-center;
+}
+.a{background-color:white; width:20%; font-size:20px; font-family:Comic Sans MS;}
+.b{background-color:violet; width:20%; font-size:20px; font-family:Agency FB;}
+.c{background-color:Powderblue; width:20%; font-size:20px; font-family:Symbol;}
+.d{background-color:white; width:30%; font-size:30px; font-family:Comic Sans MS;}
+.e{background-color:violet; width:30%; font-size:30px; font-family:Agency FB;}
+.f{background-color:Powderblue; width:30%; font-size:30px; font-family:Symbol;}
+h1{background-color:White; width:25%; font-size:40px; font-family:Calibri;}
+a{background-color:Powderblue; width:30%; font-size:20px; font-family:Comic Sans MS ;}
+body{background-image:url(brofist.png);}
